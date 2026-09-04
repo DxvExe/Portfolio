@@ -1,14 +1,16 @@
+
+
 <div align="center">
 
-# ⚡ UNKNOWN
+# ⚡ DXV.ExE
 
 ### `CODE • BUILD • BREAK • FIX • REPEAT`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+C%2B%2B;Building+things+that+probably+shouldn't+work;Professional+Overthinker+%7C+Roaster+%7C+Imaginer;Currently+turning+ideas+into+code+%F0%9F%97%BF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+C%2B%2B;Building+things+that+probably+shouldn't+work;Professional+Overthinker+%7C+Roaster+%7C+Imaginer;Currently+building+URA;Open+Source+%7C+AI+%7C+Automation;ABSOLUTE+CINEMA+%F0%9F%97%BF" alt="Typing SVG" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12&section=header&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -22,10 +24,11 @@ role: Developer
 location: Somewhere on Earth 🌍
 
 currently:
-  - Building projects
-  - Learning new technologies
-  - Breaking my own code
-  - Fixing the code I just broke
+  - Building URA
+  - Working on AI projects
+  - Experimenting with software
+  - Making things unnecessarily complicated
+  - Breaking code and fixing it again
 
 interests:
   - Web Development
@@ -57,65 +60,66 @@ Sometimes it's an ESP32 doing something it absolutely was not supposed to do. �
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css&theme=dark" />
 </p>
 
 ### Frameworks & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb,firebase,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb,firebase,git,github,vscode&theme=dark" />
 </p>
 
 ### Other Stuff
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows,arduino,raspberrypi,docker" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,windows,arduino,raspberrypi,docker&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 What I'm Building
 
-### 🎮 Quartz Launcher
+### 🤖 URA
 
-A lightweight, open-source Minecraft launcher for Windows.
+My current main project.
 
-**Python • Minecraft APIs • Instance Management • Fabric • Forge**
-
-Focused on making a fast, customizable launcher with isolated instances, Java management, mod-loader support, offline mode, downloads, and more.
-
-> Backend: built.  
-> UI: currently fighting for its life. 💀
-
----
-
-### 🤖 AI Projects
-
-Building AI-powered applications that go beyond:
+URA is an AI-focused platform built around **interactive AI experiences**, learning, conversations, quizzes, and useful tools rather than just being another:
 
 > "Hello! How can I assist you today?"
 
-I'm interested in AI interfaces, voice interaction, automation, educational tools, and making AI actually useful.
+I'm currently working on making URA more powerful, interactive, and polished.
+
+**AI • Full Stack • Automation • Interactive UI**
 
 ---
 
-### ⚡ Hardware & IoT
+### 🧪 Other Experiments
 
-I also mess around with microcontrollers and electronics.
+I'm constantly experimenting with:
 
-ESP32s, sensors, relays, automation, smart devices...
+* 🤖 AI applications
+* 🌐 Full-stack web apps
+* ⚡ Automation
+* 🔌 ESP32 / Electronics
+* 🖥️ Windows applications
+* 🧠 Developer tools
+* 🚀 Random ideas that somehow become projects
 
 Basically:
 
 ```text
 Idea
  ↓
-ESP32
+"this should be easy"
  ↓
-Questionable wiring
+Code
  ↓
-It works
+Error
+ ↓
+More code
+ ↓
+WHY IS IT WORKING
  ↓
 ABSOLUTE CINEMA
 ```
@@ -126,19 +130,13 @@ ABSOLUTE CINEMA
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DxvExe&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DxvExe&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxvExe&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF" height="180"/>
 
-</div>
+<br><br>
 
----
-
-## 🏆 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DxvExe&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DxvExe&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=FFFFFF"/>
 
 </div>
 
@@ -158,8 +156,8 @@ ABSOLUTE CINEMA
 
 ```text
 [████████████████░░░░] Build cooler projects
-[██████████████░░░░░░] Learn more
-[████████████░░░░░░░░] Improve at everything
+[███████████████░░░░░] Learn more
+[██████████████░░░░░░] Improve at everything
 [██████████░░░░░░░░░░] Touch grass
 ```
 
@@ -173,14 +171,14 @@ Coding isn't the only thing I'm interested in.
 
 I'm fascinated by:
 
-- 🚀 Aerospace
-- 🪐 Space exploration
-- 🛰️ Satellites
-- 🤖 Artificial intelligence
-- 🔐 Cybersecurity
-- ⚡ Electronics
-- 🧠 Engineering
-- 🎮 Games & game technology
+* 🚀 Aerospace
+* 🪐 Space exploration
+* 🛰️ Satellites
+* 🤖 Artificial intelligence
+* 🔐 Cybersecurity
+* ⚡ Electronics
+* 🧠 Engineering
+* 🎮 Games & game technology
 
 The long-term goal?
 
@@ -227,7 +225,7 @@ I learn best by taking an idea, turning it into a project, destroying it with bu
 <div align="center">
 
 <a href="https://github.com/DxvExe">
-<img src="https://img.shields.io/badge/GitHub-UNKNOWN-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/GitHub-UNKNOWN-000000?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=000000" />
 </a>
 
 </div>
@@ -236,12 +234,11 @@ I learn best by taking an idea, turning it into a project, destroying it with bu
 
 <div align="center">
 
-### ⚡ UNKNOWN
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1600&pause=600&color=00F7FF&center=true&vCenter=true&width=700&lines=UNKNOWN;Still+coding...;Still+breaking+things...;Still+fixing+things...;Still+building.;ABSOLUTE+CINEMA+%F0%9F%97%BF" />
 
-`BUILDING THE FUTURE ONE BUG AT A TIME`
+<br><br>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12&animation=fadeIn" width="100%"/>
 
 </div>
+
