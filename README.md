@@ -57,7 +57,7 @@ interests:
   - Cybersecurity
   - Electronics
   - Automation
-  - Space & Aerospace 🚀
+  - Space & Electrical engineering 🚀
 
 mindset:
   - Build it
@@ -186,7 +186,7 @@ Launch
 | 🌐 Web Apps | `BUILDING` |
 | ⚡ ESP32 / IoT | `EXPERIMENTING` |
 | 🔐 Cybersecurity | `LEARNING` |
-| 🚀 Aerospace | `DREAMING BIG` |
+| 🚀 Electrical Engineer At Nasa | `DREAMING BIG` |
 | 🧪 Random Ideas | `DANGEROUS` |
 
 </div>
@@ -245,13 +245,13 @@ TOUCH GRASS             ███░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2000&pause=450&color=00F7FF&center=true&vCenter=true&width=800&lines=LOOKING+BEYOND+THE+SCREEN...;Aerospace+%F0%9F%9A%80;Space+Exploration+%F0%9F%AA%90;Satellites+%F0%9F%9B%B0%EF%B8%8F;Artificial+Intelligence+%F0%9F%A4%96;Engineering+%E2%9A%A1;Cybersecurity+%F0%9F%94%90" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2000&pause=450&color=00F7FF&center=true&vCenter=true&width=800&lines=LOOKING+BEYOND+THE+SCREEN...;Electrical Engineering+%F0%9F%9A%80;Space+Exploration+%F0%9F%AA%90;Satellites+%F0%9F%9B%B0%EF%B8%8F;Artificial+Intelligence+%F0%9F%A4%96;Engineering+%E2%9A%A1;Cybersecurity+%F0%9F%94%90" />
 
 </div>
 
 I'm fascinated by:
 
-- 🚀 Aerospace
+- 🚀 Space
 - 🪐 Space exploration
 - 🛰️ Satellites
 - 🤖 Artificial intelligence
